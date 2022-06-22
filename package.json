@@ -1,0 +1,19 @@
+{
+  "name": "electronjs",
+  "version": "1.0.0",
+  "description": " demo desktop app",
+  "main": "main.js",
+  "scripts": {
+    "test": " ",
+    "start": "electron ."
+  },
+  "author": "Hoang Anh",
+  "license": "MIT",
+  "devDependencies": {
+    "@okta/okta-auth-js": "^5.8.0",
+    "electron": "^16.0.3"
+  },
+  "dependencies": {
+    "okta": "^1.0.0"
+  }
+}
